@@ -1,0 +1,12 @@
+<svg width="1200" height="10" viewBox="0 0 1200 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="stripGrad" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FF5A1F"/>
+      <stop offset="22%" stop-color="#E0157F"/>
+      <stop offset="45%" stop-color="#9A2BA8"/>
+      <stop offset="68%" stop-color="#5B3FB0"/>
+      <stop offset="100%" stop-color="#1D4E93"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="10" rx="5" fill="url(#stripGrad)"/>
+</svg>
